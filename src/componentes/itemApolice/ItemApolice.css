@@ -1,0 +1,17 @@
+.item-cotacoes{
+    margin: 30px, 5px;
+    padding: 10px, 15px;
+    font-size: 18px;
+}
+
+.campo-cotacao{
+    display: flex;
+    align-items: center;
+    color: #383838;
+}
+
+.valor-cotacao{
+    padding: 0, 12px;
+    font-size: 20px;
+    font-weight: 500;
+}

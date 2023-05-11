@@ -1,0 +1,11 @@
+.item-cotacao{
+    margin: 30px 5px;
+    padding: 10px 15px;
+    font-size: 18px;
+}
+
+.campo-cotacao{
+    display: flex;
+    align-items: center;
+    font-size: #383838;
+}

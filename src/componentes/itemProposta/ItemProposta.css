@@ -1,0 +1,17 @@
+.valor-proposta{
+    padding: 0 12px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.item-proposta{
+    margin: 30px 5px;
+    padding: 10px 15px;
+    font-size: 18px;
+}
+
+.campo-proposta{
+    display: flex;
+    align-items: center;
+    color: #383838;
+}

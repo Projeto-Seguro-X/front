@@ -1,0 +1,129 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 20px;
+}
+
+.cotacao-fieldset{
+    border: 1px #e6e6e6 solid;
+    border-radius: 10px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px;
+    margin: 20px 0px;
+}
+
+.numero-cotacao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numero-cotacao-paragrafo{
+    margin: 10px;
+}
+
+.cotacao-span{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.nome-label{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #5f5f5f;
+}
+
+.input-cotacao{
+    background-color:  #f7f7f7;
+    color: #464646;
+    padding: 14px 20px;
+    margin: 3px 0;
+    border: none;
+    border-radius: 9px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+.cpf-label{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #5f5f5f;
+}
+
+.cpf-aviso{
+    font-weight: 400;
+    font-size: 15px;
+    background-color: #ffc5c5;
+    color: #5f0606;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+}
+
+.label-vigencia{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color:#5f5f5f
+}
+
+.input-vigencia{
+    padding: 14px 20px;
+    margin: 3px 0;
+    border: none;
+    border-radius: 9px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+.label-risco{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.input-risco{
+    padding: 14px 20px;
+    margin: 3px 0;
+    border: none;
+    border-radius: 9px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+.label-cobertura{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.select-cobertura{
+    padding: 14px 20px;
+    margin: 3px 0;
+    border: none;
+    border-radius: 9px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    width: 70%;
+}
+
+.descricao-cobertura{
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.botao-elaborar{
+    width: 140px;
+    height: 40px;
+    padding: 8px;
+    border-radius: 14px;
+    border: none;
+    margin: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}

@@ -1,0 +1,11 @@
+.campo-cobertura{
+    display: flex;
+    align-items: center;
+    color:#383838
+}
+
+.valor-cobertura{
+    padding: 0 12px;
+    font-weight: 500;
+    font-size: 20px;
+}
